@@ -1,1 +1,6 @@
 C:\TestProjects\Patterns\Phactory\Phactory\bin\Debug\Phactory.exe.config
+C:\TestProjects\Patterns\Phactory\Phactory\bin\Debug\Phactory.exe
+C:\TestProjects\Patterns\Phactory\Phactory\bin\Debug\Phactory.pdb
+C:\TestProjects\Patterns\Phactory\Phactory\obj\Debug\Phactory.csprojResolveAssemblyReference.cache
+C:\TestProjects\Patterns\Phactory\Phactory\obj\Debug\Phactory.exe
+C:\TestProjects\Patterns\Phactory\Phactory\obj\Debug\Phactory.pdb
