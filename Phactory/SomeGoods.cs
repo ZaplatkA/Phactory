@@ -11,7 +11,7 @@ namespace Phactory
         private string name;
         private double price;
 
-        SomeGoods(string nameVal, double priceVal)
+        public SomeGoods(string nameVal, double priceVal)
         {
             name = nameVal;
             price = priceVal;
