@@ -10,7 +10,13 @@ namespace Phactory
     {
         static void Main(string[] args)
         {
+            SomeGoods freeHat = new SomeGoods("Frank Hat", 0);
+            freeHat.PrintInfo();
+            
+            SomeGoods fedora = new SomeGoods("Fedora", 100);
+            fedora.PrintInfo();
 
+            Console.ReadKey();
         }
     }
 }

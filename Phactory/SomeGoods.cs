@@ -26,5 +26,10 @@ namespace Phactory
         {
             return price;
         }
+
+        public void PrintInfo()
+        {
+            Console.WriteLine("Position: " + name + "; \tPrice: " + price);
+        }
     }
 }
